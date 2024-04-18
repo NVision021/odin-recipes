@@ -1,0 +1,23 @@
+li {
+  display: inline-block;
+}
+
+ul {
+  text-align: center;
+  border: solid black;
+  margin-top: 40px;
+  margin-right: 300px;
+  margin-left: 300px;
+  border-style: dashed;
+}
+
+h1,
+p {
+  text-align: center;
+}
+
+a{
+  background-color: yellow;
+  padding: 20px;
+  margin: -20px 20px;
+}
